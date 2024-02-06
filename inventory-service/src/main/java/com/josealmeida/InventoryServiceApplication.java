@@ -7,6 +7,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 
+
 @SpringBootApplication
 public class InventoryServiceApplication {
 
@@ -22,7 +23,7 @@ public class InventoryServiceApplication {
             inventory.setQuantity(100);
 
             Inventory inventory1 = new Inventory();
-            inventory1.setSkuCode("Apple Vision pro 2");
+            inventory1.setSkuCode("Apple Vision pro 2-");
             inventory1.setQuantity(0);
 
             inventoryRepository.save(inventory);
