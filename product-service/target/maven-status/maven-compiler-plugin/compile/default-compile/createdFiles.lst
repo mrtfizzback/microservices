@@ -1,0 +1,10 @@
+com\josealmeida\dto\ProductResponse$ProductResponseBuilder.class
+com\josealmeida\dto\ProductRequest.class
+com\josealmeida\dto\ProductResponse.class
+com\josealmeida\ProductServiceApplication.class
+com\josealmeida\controller\ProductController.class
+com\josealmeida\model\Product.class
+com\josealmeida\service\ProductService.class
+com\josealmeida\model\Product$ProductBuilder.class
+com\josealmeida\repository\ProductRepository.class
+com\josealmeida\dto\ProductRequest$ProductRequestBuilder.class

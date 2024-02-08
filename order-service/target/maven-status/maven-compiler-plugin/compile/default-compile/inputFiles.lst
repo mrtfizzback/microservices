@@ -1,0 +1,10 @@
+C:\microservices-xk\order-service\src\main\java\com\josealmeida\service\OrderService.java
+C:\microservices-xk\order-service\src\main\java\com\josealmeida\controller\OrderController.java
+C:\microservices-xk\order-service\src\main\java\com\josealmeida\dto\InventoryResponse.java
+C:\microservices-xk\order-service\src\main\java\com\josealmeida\OrderServiceApplication.java
+C:\microservices-xk\order-service\src\main\java\com\josealmeida\dto\OrderLineItemsDto.java
+C:\microservices-xk\order-service\src\main\java\com\josealmeida\model\OrderLineItems.java
+C:\microservices-xk\order-service\src\main\java\com\josealmeida\repository\OrderRepository.java
+C:\microservices-xk\order-service\src\main\java\com\josealmeida\dto\OrderRequest.java
+C:\microservices-xk\order-service\src\main\java\com\josealmeida\model\Order.java
+C:\microservices-xk\order-service\src\main\java\com\josealmeida\config\WebClientConfig.java

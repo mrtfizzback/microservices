@@ -1,0 +1,11 @@
+com\josealmeida\dto\OrderLineItemsDto.class
+com\josealmeida\dto\OrderRequest.class
+com\josealmeida\OrderServiceApplication.class
+com\josealmeida\controller\OrderController.class
+com\josealmeida\model\OrderLineItems.class
+com\josealmeida\repository\OrderRepository.class
+com\josealmeida\dto\InventoryResponse.class
+com\josealmeida\model\Order.class
+com\josealmeida\config\WebClientConfig.class
+com\josealmeida\dto\InventoryResponse$InventoryResponseBuilder.class
+com\josealmeida\service\OrderService.class

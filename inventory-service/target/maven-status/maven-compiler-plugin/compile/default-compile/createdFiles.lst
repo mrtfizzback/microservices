@@ -1,0 +1,7 @@
+com\josealmeida\model\Inventory.class
+com\josealmeida\repository\InventoryRepository.class
+com\josealmeida\service\InventoryService.class
+com\josealmeida\controller\InventoryController.class
+com\josealmeida\dto\InventoryResponse.class
+com\josealmeida\InventoryServiceApplication.class
+com\josealmeida\dto\InventoryResponse$InventoryResponseBuilder.class
