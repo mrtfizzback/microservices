@@ -1,7 +1,7 @@
-com\josealmeida\model\Inventory.class
-com\josealmeida\repository\InventoryRepository.class
-com\josealmeida\service\InventoryService.class
-com\josealmeida\controller\InventoryController.class
-com\josealmeida\dto\InventoryResponse.class
-com\josealmeida\InventoryServiceApplication.class
-com\josealmeida\dto\InventoryResponse$InventoryResponseBuilder.class
+com\josealmeida\apigateway\dto\InventoryResponse$InventoryResponseBuilder.class
+com\josealmeida\apigateway\controller\InventoryController.class
+com\josealmeida\apigateway\repository\InventoryRepository.class
+com\josealmeida\apigateway\dto\InventoryResponse.class
+com\josealmeida\apigateway\model\Inventory.class
+com\josealmeida\apigateway\InventoryServiceApplication.class
+com\josealmeida\apigateway\service\InventoryService.class

@@ -1,7 +1,7 @@
-C:\microservices-xk\product-service\src\main\java\com\josealmeida\dto\ProductResponse.java
-C:\microservices-xk\product-service\src\main\java\com\josealmeida\ProductServiceApplication.java
-C:\microservices-xk\product-service\src\main\java\com\josealmeida\service\ProductService.java
-C:\microservices-xk\product-service\src\main\java\com\josealmeida\controller\ProductController.java
-C:\microservices-xk\product-service\src\main\java\com\josealmeida\dto\ProductRequest.java
-C:\microservices-xk\product-service\src\main\java\com\josealmeida\repository\ProductRepository.java
-C:\microservices-xk\product-service\src\main\java\com\josealmeida\model\Product.java
+C:\microservices-xk\product-service\src\main\java\com\josealmeida\apigateway\ProductServiceApplication.java
+C:\microservices-xk\product-service\src\main\java\com\josealmeida\apigateway\dto\ProductRequest.java
+C:\microservices-xk\product-service\src\main\java\com\josealmeida\apigateway\dto\ProductResponse.java
+C:\microservices-xk\product-service\src\main\java\com\josealmeida\apigateway\controller\ProductController.java
+C:\microservices-xk\product-service\src\main\java\com\josealmeida\apigateway\service\ProductService.java
+C:\microservices-xk\product-service\src\main\java\com\josealmeida\apigateway\model\Product.java
+C:\microservices-xk\product-service\src\main\java\com\josealmeida\apigateway\repository\ProductRepository.java
