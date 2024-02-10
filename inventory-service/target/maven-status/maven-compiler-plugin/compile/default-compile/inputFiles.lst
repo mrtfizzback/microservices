@@ -1,6 +1,6 @@
-C:\microservices-xk\inventory-service\src\main\java\com\josealmeida\apigateway\model\Inventory.java
-C:\microservices-xk\inventory-service\src\main\java\com\josealmeida\apigateway\service\InventoryService.java
-C:\microservices-xk\inventory-service\src\main\java\com\josealmeida\apigateway\repository\InventoryRepository.java
-C:\microservices-xk\inventory-service\src\main\java\com\josealmeida\apigateway\dto\InventoryResponse.java
-C:\microservices-xk\inventory-service\src\main\java\com\josealmeida\apigateway\controller\InventoryController.java
-C:\microservices-xk\inventory-service\src\main\java\com\josealmeida\apigateway\InventoryServiceApplication.java
+C:\microservices-xk\inventory-service\src\main\java\com\josealmeida\inventoryservice\model\Inventory.java
+C:\microservices-xk\inventory-service\src\main\java\com\josealmeida\inventoryservice\controller\InventoryController.java
+C:\microservices-xk\inventory-service\src\main\java\com\josealmeida\inventoryservice\service\InventoryService.java
+C:\microservices-xk\inventory-service\src\main\java\com\josealmeida\inventoryservice\repository\InventoryRepository.java
+C:\microservices-xk\inventory-service\src\main\java\com\josealmeida\inventoryservice\dto\InventoryResponse.java
+C:\microservices-xk\inventory-service\src\main\java\com\josealmeida\inventoryservice\InventoryServiceApplication.java

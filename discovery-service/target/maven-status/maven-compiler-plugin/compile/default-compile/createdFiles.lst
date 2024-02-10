@@ -1,1 +1,2 @@
-com\josealmeida\apigateway\DiscoveryServerApplication.class
+com\josealmeida\discoveryserver\DiscoveryServerApplication.class
+com\josealmeida\discoveryserver\config\SecurityConfig.class

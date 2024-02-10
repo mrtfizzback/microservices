@@ -1,1 +1,2 @@
 com\josealmeida\apigateway\ApiGatewayApplication.class
+com\josealmeida\apigateway\config\SecurityConfig.class
